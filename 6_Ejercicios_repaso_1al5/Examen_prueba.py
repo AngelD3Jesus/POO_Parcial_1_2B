@@ -1,5 +1,5 @@
-total_calificaciones = 0
-total_alumnos = 0
+totCal = 0
+totAl = 0
 
 while True:
     nomAl = input("Ingresa el nombre del alumno: ")
@@ -9,25 +9,25 @@ while True:
     calif3 = int(input("Ingresa la tercera calificacion: "))
     proy = int(input("Ingrese la calificacion del proyecto: "))
 
-    promedio_parciales = (calif1 + calif2 + calif3) / 3
-    promedio_parciales2 = promedio_parciales / 2 
-    proyeccion_proyecto = proy / 2
+    promPar = (calif1 + calif2 + calif3) / 3
+    promPar2 = promPar / 2 
+    proyeccion = proy / 2
 
-    calificacion_final = promedio_parciales2 + proyeccion_proyecto
+    caliFin = promPar2 + proyeccion
     
-    print(f"El promedio de los parciales es de {promedio_parciales}")
-    print(f"La calificacion final es de {calificacion_final}")
+    print(f"El promedio de los parciales es de {promPar}")
+    print(f"La calificacion final es de {caliFin}")
     
-    if calificacion_final < 80:
+    if caliFin < 80:
         print("El alumno necesita tomar un examen extraordinario.")
     
-    total_calificaciones += calificacion_final
-    total_alumnos += 1
+    totCal += caliFin
+    totAl += 1
     
     respuesta = input("¿Deseas otra captura? (s/n): ")
     if respuesta.lower() != "s":
 
-        promedio_total = total_calificaciones / total_alumnos
-        print(f"El promedio total de los alumnos es: {promedio_total}")
+        promTot = totCal / totAl
+        print(f"El promedio total de los alumnos es: {promTot}")
         print("¡Programa terminado!")
         break
