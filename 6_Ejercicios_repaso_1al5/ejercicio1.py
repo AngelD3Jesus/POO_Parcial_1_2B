@@ -13,3 +13,5 @@ print(continente)
 
 print(type(pais))
 print(type(continente))
+
+x=33
