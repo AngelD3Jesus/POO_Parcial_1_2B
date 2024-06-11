@@ -8,7 +8,7 @@ import ListaPelis
 os.system('cls')
 
 def mostrar_menu():
-    print("\n.:Gestión de Pelíclones:. ")
+    print("\n.:Gestión de Pelíclones:.")
     print("1. Agregar película")
     print("2. Remover película")
     print("3. Consultar películas")

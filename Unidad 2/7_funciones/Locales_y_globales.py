@@ -6,8 +6,8 @@ def funcion_ejemplo():
     # Podemos acceder y modificar la variable global usando la palabra clave 'global'
     global x
     x = x + y
-    print("Dentro de la función, x (global) es:", x)
-    print("Dentro de la función, y (local) es:", y)
+    print("Dentro de la función, x (global) es: ", x)
+    print("Dentro de la función, y (local) es: ", y)
 
 # Llamamos a la función
 funcion_ejemplo()

@@ -15,7 +15,7 @@ def getCalculadora(n1, n2, operacion):
         if n2 != 0:
             return f'{n1} / {n2} = {n1 / n2} '
         else:
-            return 'Es imposible dividir entre 0'
+            return 'Es imposible dividir entre 0 '
     else:
         return 'Operación no válida'
     

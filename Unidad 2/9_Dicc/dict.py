@@ -10,7 +10,7 @@
 """
 
 alumnos={
-    "nombre":"Daniel",
+    "nombre":"Luis",
     "apellidos":"Fernandez Hernandez",
     "especialidad":"TI",
     "area":"Desarrollo de SW Multiplataforma",

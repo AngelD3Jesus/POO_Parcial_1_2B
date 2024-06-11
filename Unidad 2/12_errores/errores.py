@@ -20,7 +20,7 @@ try:
  if numero>0:
     print("ingreso un numero entero")
  else:
-    print("Ingreso un numero negativo")
+    print("Ingreso un numero negativo") 
 except ValueError:
   print("No es posible convertir una letra a un numero, Verifica porfavor...")
 
@@ -38,4 +38,4 @@ except ValueError:
 else:
     print("Todo se Ejecuto si errores")
 finally:
-    print("Ya acabo")
+    print("Ya acabo el codigo")

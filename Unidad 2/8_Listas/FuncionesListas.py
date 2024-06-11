@@ -1,4 +1,4 @@
-paises=["Mexico","USA","Brasil","Japon"]
+paises=["Mexico","USA","Brasil","Corea"]
 numeros=[23,34,12.57,0.100]
 texto=["hola",True,23,3.141516] #no se pueden combinar tipos de datos
 

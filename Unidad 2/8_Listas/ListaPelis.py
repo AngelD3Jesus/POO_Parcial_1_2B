@@ -3,7 +3,7 @@ lista_peliculas = []
 
 def agregar_pelicula(nombre):
     lista_peliculas.append(nombre)
-    print(f'Película "{nombre}" agregada.')
+    print(f'Película "{nombre}" agregada')
 
 def remover_pelicula(nombre):
     if nombre in lista_peliculas:

@@ -15,7 +15,7 @@
 mezclar_ingredientes = lambda ing1, ing2: f'Mezclando {ing1} con {ing2}'
 
 # Utilizamos la función lambda para mezclar ingredientes
-resultado = mezclar_ingredientes("harina", "azúcar")
+resultado = mezclar_ingredientes("harina", "Azucar")
 
 # Imprimimos el resultado
 print(resultado)  # Esto imprimirá "Mezclando harina con azúcar"
