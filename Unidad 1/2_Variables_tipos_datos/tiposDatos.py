@@ -4,7 +4,7 @@
 
 #int "entero"
 #float "real"
-#bool "logico"
+#bool "logico
 
 #estructurados
 #str "cadena"
@@ -18,9 +18,9 @@ float = 1.8
 logico = False
 
 #ejemplo de Estructurados
-cadena = hola
+cadena = "hola"
 cadena2 = '@'
-lista = [10.20.30.40]
+lista = [10,20,30,40]
 lista2 = [True,40,0.23,"letras",'9']
 tupla = ("hola","como","estas")
 dict={

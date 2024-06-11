@@ -3,4 +3,4 @@ while True:
     if n1 == 111:
         break
     else:
-        print(f"Número ingresado: {n1}")
+        print(f"Número ingresado: {n1} ")

@@ -1,5 +1,5 @@
 n1=int(input('Ingresa un numero: '))
-n2=int(input('Ingresa otro: '))
+n2=int(input('Ingresa otro:  '))
 suma=n1+n2
 print(f"{n1} + {n2} = {suma}")
 resta=n1-n2

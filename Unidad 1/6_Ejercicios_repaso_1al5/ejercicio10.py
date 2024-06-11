@@ -7,5 +7,5 @@ for cont in range (1,16):
     else:
         r = r + 1
 
-print(f"Alumnos aprobados : {a}")
+print(f"Alumnos aprobados : {a} ")
 print(f"Alumnos reprobados: {r}")

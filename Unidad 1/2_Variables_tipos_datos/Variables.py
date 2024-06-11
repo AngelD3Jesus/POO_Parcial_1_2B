@@ -6,7 +6,7 @@
 #variable
 edad = 3
 altura = 1.80
-ciudad = "Durango"
+ciudad = "Durango "
 logico = True
 caracter = '@'
 

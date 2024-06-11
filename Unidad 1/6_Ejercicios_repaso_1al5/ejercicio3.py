@@ -6,4 +6,4 @@ while num <= 60:
 
 for contador in range(61):
     cuadrado = contador * contador
-    print (f"{contador}^2: {cuadrado}")
+    print (f"{contador}^2: {cuadrado}") 

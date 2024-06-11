@@ -4,7 +4,7 @@ y para la entrada de datos se utiliza la funcion "input"
 
 """
 #Solicitar los datos de un alumno
-nombre=input('Nombre del alumno: ')
+nombre=input('Nombre del alumno:')
 matricula=input('Ingrese su matricula: ')
 especialidad=input('Ingresa la especialidad: ')
 edad=input('Ingresa la edad: ')

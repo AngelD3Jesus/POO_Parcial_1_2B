@@ -3,8 +3,8 @@
 resultado = 3 + 7
 print(resultado)
 
-print("Hola mundo")
-print('Hola mundo')
+print("Hola mundo ")
+print('Hola mundo ')
 
 a = 23
 c = 3 + a

@@ -6,7 +6,7 @@
 #    bloque de instrucciones
 contador = 1
 while contador <= 5:
-    print("@")
+    print("@ ")
     contador += 1
 
 #ejemplo 2 crear un programa que imprima los numeros del 1 al 5, los sume y al final imprima la suma

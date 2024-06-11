@@ -5,7 +5,7 @@
 pais = "Mexico"
 continente = "America"
 
-print("Pais es string")
+print("Pais es string ")
 print("Continente es string")
 
 print(pais)

@@ -16,7 +16,7 @@ suma = 0
 for numero in range (1,6):
 	print(numero)
 	suma += numero
-print (f"La suma es: {suma}")	
+print (f" La suma es: {suma}")	
 
 #Ejemplo 3 Crear un programa que solicite un numero entero y a continuacion imprima la tabla de multiplicar correspondiente
 

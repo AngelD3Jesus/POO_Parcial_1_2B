@@ -7,7 +7,7 @@ while True:
     calif1 = int(input("Ingresa la primera calificacion: "))
     calif2 = int(input("Ingresa la segunda calificacion: "))
     calif3 = int(input("Ingresa la tercera calificacion: "))
-    proy = int(input("Ingrese la calificacion del proyecto: "))
+    proy = int(input("Ingrese la calificacion del proyecto:  "))
 
     promPar = (calif1 + calif2 + calif3) / 3
     promPar2 = promPar / 2 

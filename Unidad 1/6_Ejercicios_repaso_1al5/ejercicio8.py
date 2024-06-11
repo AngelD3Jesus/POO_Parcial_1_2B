@@ -1,5 +1,5 @@
 n1 = int(input('Ingresa el primer número: '))
-n2 = int(input('Ingresa otro número: '))
+n2 = int(input('Ingresa otro número:  '))
 
 porciento = n1 * 0.01
 total = n2 * porciento 

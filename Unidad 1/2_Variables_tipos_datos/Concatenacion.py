@@ -5,7 +5,7 @@ especialidad = "Area de software multiplataforma"
 carrera = "Ingenieria en gestion y desarrollo de software"
 
 #1er forma
-print("Mi nombre es "+nombre+" estoy en la especialidad de "+especialidad+" en la carrera de "+carrera )
+print(" Mi nombre es "+nombre+" estoy en la especialidad de "+especialidad+" en la carrera de "+carrera )
 
 print("\n")
 

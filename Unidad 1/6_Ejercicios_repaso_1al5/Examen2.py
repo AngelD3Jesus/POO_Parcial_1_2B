@@ -7,7 +7,7 @@ while True:
     imc = peso / (altura * altura)
 
     if imc < 18.5:
-        composicion = "Peso inferior al normal"
+        composicion = "Peso inferior al normal "
     elif 18.5 <= imc <= 24.9:
         composicion = "Normal"
     elif 25.0 <= imc <= 29.9:

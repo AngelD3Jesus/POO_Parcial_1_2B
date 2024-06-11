@@ -13,7 +13,7 @@ Tienes 3 variantes de if
 #Ejemplo 1.- if simple 
 color="rojo"
 if color=="rojo":
-    print("Soy el color rojo")
+    print("Soy el color rojo ")
 
 
 #Ejemplo 2.- if compuesto 
